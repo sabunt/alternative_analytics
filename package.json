@@ -1,4 +1,27 @@
 {
     "name": "@alex_buntov/alternative_analytics",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "author": {
+        "name": "Segment",
+        "email": "tools+npm@segment.com",
+        "url": "https://segment.com"
+    },
+    "engines": {
+        "node": ">=4"
+    },
+    "size-limit": [
+        {
+            "limit": "25 KB",
+            "path": "index.js"
+        }
+    ],
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+    "analytics",
+    "stats",
+    "client",
+    "driver"
+    ]
 }
